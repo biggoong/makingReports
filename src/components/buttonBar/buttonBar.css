@@ -1,0 +1,20 @@
+
+.buttonBar ul li {
+	float: left;
+	list-style-type: none;
+	padding: 0.2rem 0.5rem;
+	color: #4D4E53;
+	border: 1px solid #AAA7A7;
+	border-right: 0px;
+}
+
+.buttonBar ul li:first-child {
+	border-top-left-radius: 0.3rem;
+	border-bottom-left-radius: 0.3rem;
+}
+
+.buttonBar ul li:last-child {
+	border-top-right-radius: 0.3rem;
+	border-bottom-right-radius: 0.3rem;
+	border-right: 1px solid #AAA7A7;
+}

@@ -1,0 +1,79 @@
+.errorBar {
+	margin-top: 0.5rem;
+	margin-bottom: 0.3rem;
+}
+
+.errorName {
+    display: inline-block;
+    width: 100%;
+}
+
+.errorValue0, .errorValue1, .errorValue2, .errorValue3 {
+	float: left;
+	height: 0.5rem;
+}
+
+.errorName0, .errorName1, .errorName2, .errorName3{
+    float: left;
+    font-weight: bold;
+}
+
+.errorValue0 {
+	width: calc(100% / 4);
+	background: #A2A505;
+}
+
+.errorName0 {
+    width: calc(100% / 4);
+    color: #A2A505;
+}
+
+.errorValue1 {
+	width: calc(100% / 4);
+	background: #0F3276;
+}
+
+.errorName1 {
+    width: calc(100% / 4);
+    color: #0f3276;
+}
+
+.errorValue2 {
+	width: calc(100% / 4);
+	background: rgb(192, 112, 8);
+}
+
+.errorName2 {
+    width: calc(100% / 4);
+    color: rgb(192, 112, 8);
+}
+
+.errorValue3 {
+	width: calc(100% / 4);
+	background: #9A9B9B;
+}
+
+.errorName3 {
+    width: calc(100% / 4);
+    color: #9A9B9B;
+}
+
+
+
+.errorByTypes{
+    margin: 0 auto;
+}
+
+.errorByTypes td{
+    padding: 0.5rem 2rem;
+}
+
+.errorType{
+    font-size: 1.25rem;
+}
+
+.average{
+    font-size: 1rem;
+	margin-top: 0.3rem;
+	color: #A2A2A2; 
+}
