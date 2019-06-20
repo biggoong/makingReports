@@ -1,3 +1,6 @@
+Frontend project:
+Getting data JSON and drawing 3 graphics, showing saling progress and other bookings parameters for bookings site.
+
 This app uses the data to build reports about errors.
 
 To run the api go to data/ and `npm start`.
